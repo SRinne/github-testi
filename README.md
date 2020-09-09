@@ -1,5 +1,4 @@
 # github-testi
-Testissä github.
-Aika hyvin toimii.
+Aika rouhea sivu, hyvin toimii
 
 
